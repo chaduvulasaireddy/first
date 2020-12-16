@@ -1,0 +1,11 @@
+--->create directory same as repository name using mkdir 
+--->create a file using touch 
+1.git init                           (create git project)       
+2.git status                         (untracked/unstaged area)
+3.git add .
+4.git status                         (tracked/staged area)  
+5.git commit -m "message" -a
+6.git remote add origin url           (first time of creation of  remote repository)    
+7.git push -v                         (optional)
+8.git push origin master              (push to remote repository)
+9.you refresh the git hub page.
